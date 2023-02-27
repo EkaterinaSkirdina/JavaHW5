@@ -5,9 +5,6 @@ import java.util.Map;
 import java.util.Scanner;
 
 
-// Подсчитать количество искомого слова, через map 
-// (наполнением значение, где искомое слово будет являться ключом).
-
 public class Task2 {
     public static void main(String[] args) {
         Map<String,Integer> mapList = new HashMap<>();
